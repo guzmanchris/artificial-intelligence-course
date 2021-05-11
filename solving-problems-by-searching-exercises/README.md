@@ -1,10 +1,10 @@
  # Solving Problems by Searching
  
- *CIIC 5015: Artificial Intelligence
- *Prof. J. Fernando Vega Riveros
- *Programming Assignment 2
- *Date: March 26, 2021
- *Author: Christian D. Guzmán Torres
+ *CIIC 5015: Artificial Intelligence*
+ *Prof. J. Fernando Vega Riveros*
+ *Programming Assignment 2*
+ *Date: March 26, 2021*
+ *Author: Christian D. Guzmán Torres*
 
  This project is based on Russell, S. and Norvig P. Artificial Intelligence: A Modern Approach, 3rd Edition
  Three python files are included:
