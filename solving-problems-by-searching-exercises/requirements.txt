@@ -1,0 +1,4 @@
+httpimport
+ipython
+ipythonblocks
+numpy
