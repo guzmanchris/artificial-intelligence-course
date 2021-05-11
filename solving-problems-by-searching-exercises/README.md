@@ -1,6 +1,6 @@
  # Solving Problems by Searching
  
- CIIC 5015: Artificial Intelligence
+ CIIC 5015: Artificial Intelligence\n
  Prof. J. Fernando Vega Riveros
  Programming Assignment 2
  Date: March 26, 2021
